@@ -42,7 +42,9 @@ private string connectionString = "Host=localhost;Database=provaA1;Username=root
 1- Compile o projeto no Visual Studio.
 
 
-2- Execute o projeto pressionando F5 ou selecionando Debug > Start Debugging.
+2- Execute o projeto pressionando F5
+
+
 **Autor:**
 Maria Cecília Araujo Lemos
 Observações
