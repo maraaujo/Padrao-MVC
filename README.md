@@ -19,7 +19,7 @@ O projeto está dividido nas seguintes camadas:
 - C# com Windows Forms.
 - MySQL para o banco de dados.
 - Biblioteca MySql.Data para comunicação com o banco de dados.
-- 
+  
 #Requisitos
 Visual Studio 2019 ou superior.
 MySQL Server.
