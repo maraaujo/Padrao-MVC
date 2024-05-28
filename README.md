@@ -27,6 +27,7 @@ MySQL Server.
 .NET Framework 4.7.2 ou superior.
 
 **Configuração do Ambiente**
+
 1- Clone o repositório
 
 2- Com o projeto aberto no Visual Studio Code intale o pacote 'MySql.Data'
