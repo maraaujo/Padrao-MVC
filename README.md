@@ -33,11 +33,15 @@ MySQL Server.
 2- Com o projeto aberto no Visual Studio Code intale o pacote 'MySql.Data'
 
 3- Configure a string de conexão no arquivo 'BicicletaDAL.cs':
+
+
 private string connectionString = "Host=localhost;Database=provaA1;Username=root;Password=sua_senha;Convert Zero Datetime=True";
 
 
 **Executando o Projeto**
 1- Compile o projeto no Visual Studio.
+
+
 2- Execute o projeto pressionando F5 ou selecionando Debug > Start Debugging.
 **Autor:**
 Maria Cecília Araujo Lemos
